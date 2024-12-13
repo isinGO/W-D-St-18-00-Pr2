@@ -1,0 +1,30 @@
+<html>
+    <head>
+        <title>
+            half-life
+        </title>
+        <link rel="stylesheet" href="syle_user10.css"/>
+    </head>
+    <body>
+        <header>
+<a href="https://store.steampowered.com/app/70/HalfLife/"><b>the game</b></a>
+<img src="https://pngimg.com/uploads/Half-Life/Half-Life_PNG76.png">
+    </header>
+    <main>
+        <p><h1> Half-Life </h1></p>
+        <p>During a failed experiment at the Black Mesa Research Facility, an explosion opens a portal to an alien world. Physicist Gordon Freeman survives, but must now battle both aliens and government forces to save humanity from an invasion of Earth.</p>
+        <p><img src="https://cdn.cloudflare.steamstatic.com/half-life.com/images/halflife/halflife_4.jpg"></p>
+        <p>Valve's first title, Half-Life, combines action and adventure with award-winning technology to deliver a thrillingly immersive world where players must think to survive. The game features an innovative combination of combat, puzzle-solving and storytelling.</p>
+        <p><img src="https://cdn.cloudflare.steamstatic.com/half-life.com/images/halflife/halflife_1.jpg"></p>
+    </main>
+    <footer>
+
+        <p><h1> FUN FACTS ABOUT HALF-LIFE!!!!!!!!</h1></p>
+        <p>1.Half-Life was developed by Valve Corporation</p>
+        <p>2.Released on November 19, 1998,</p>
+        <p>3.The game’s engine, GoldSrc</p>
+        <p>4.Half-Life introduced a new level of storytelling </p>
+        <p>5.the protagonist, Gordon Freeman</p>
+    </footer>
+    </body>
+</html>
