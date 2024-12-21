@@ -1,0 +1,58 @@
+/* Загальні стилі */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #0078D4;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+}
+
+main {
+    padding: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin: 10px 0;
+}
+
+/* Стилі для посилань */
+a {
+    text-decoration: none;
+    color: #0078D4;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #0056A3;
+}
+
+/* Стилі для футера */
+foter {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #0078D4;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
