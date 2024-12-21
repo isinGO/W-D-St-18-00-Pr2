@@ -16,28 +16,8 @@ p {
     background-color: yellow;
 }
 
-#my-id {
-    font-size: 20px;
-}
-
-[type="text"] {
-    border: 1px solid red;
-}
-
 div p {
     margin-left: 10px;
-}
-
-ul > li {
-    list-style-type: none;
-}
-
-h1 + p {
-    font-style: italic;
-}
-
-h1 ~ p {
-    color: green;
 }
 
 a:hover {
